@@ -2,7 +2,7 @@
   "versions": [
     {
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/fromzecom/bookstore/refs/heads/main/gutenberg/books-v1.0.json"
+      "url": "https://raw.githubusercontent.com/fromzecom/bookstore/refs/tags/v1.0/gutenberg/books-v1.0.json"
     }
   ]
 }
