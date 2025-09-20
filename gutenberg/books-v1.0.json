@@ -1,0 +1,65 @@
+{
+  "version": 1.0,
+  "books": [
+    {
+      "id": 2701,
+      "title": "Moby Dick; Or, The Whale",
+      "authors": "Melville, Herman",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/2701.epub3.images",
+      "source": "gutenberg"
+    },
+    {
+      "id": 84,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": "Shelley, Mary Wollstonecraft",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/84.epub3.images",
+      "source": "gutenberg"
+    },
+    {
+      "id": 1513,
+      "title": "Romeo and Juliet",
+      "authors": "Shakespeare, William",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/1513.epub3.images",
+      "source": "gutenberg"
+    },
+    {
+      "id": 2641,
+      "title": "A Room with a View",
+      "authors": "Forster, E. M. (Edward Morgan)",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/2641.epub3.images",
+      "source": "gutenberg"
+    },
+    {
+      "id": 1342,
+      "title": "Pride and Prejudice",
+      "authors": "Austen, Jane",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/1342.epub3.images",
+      "source": "gutenberg"
+    },
+    {
+      "id": 100,
+      "title": "The Complete Works of William Shakespeare",
+      "authors": "Shakespeare, William",
+      "language": "en",
+      "copyright": false,
+      "coverImageUrl": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg",
+      "epubUrl": "https://www.gutenberg.org/ebooks/100.epub3.images",
+      "source": "gutenberg"
+    }
+  ]
+}
